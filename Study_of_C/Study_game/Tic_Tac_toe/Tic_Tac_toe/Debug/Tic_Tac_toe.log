@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\dzimi\Documents\Study-of-C-\Study_of_C\Study_game\Tic_Tac_toe\Tic_Tac_toe\main.cpp(95): warning C4715: 'game_winner': not all control paths return a value
+  Tic_Tac_toe.vcxproj -> C:\Users\dzimi\Documents\Study-of-C-\Study_of_C\Study_game\Tic_Tac_toe\Debug\Tic_Tac_toe.exe

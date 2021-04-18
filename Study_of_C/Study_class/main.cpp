@@ -147,7 +147,6 @@ void ChangX(Point &value)
 
 /*Friend metod class*/
 
-
 int main()
 {
 	

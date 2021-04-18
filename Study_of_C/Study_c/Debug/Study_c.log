@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\dzimi\Documents\Study-of-C-\Study_of_C\Study_c\main.cpp(5,9): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\dzimi\Documents\Study-of-C-\Study_of_C\Study_c\main.cpp(5,9): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+C:\Users\dzimi\Documents\Study-of-C-\Study_of_C\Study_c\main.cpp(5,9): message : the missing variadic argument 1 is required by format string '%i'
+  Study_c.vcxproj -> C:\Users\dzimi\Documents\Study-of-C-\Study_of_C\Debug\Study_c.exe
